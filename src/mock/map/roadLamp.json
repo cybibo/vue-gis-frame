@@ -1,0 +1,13 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4168,31.173]},"properties":{"name":"路口信号灯1","id":"1","Road":"中山南二路","Type":"路口信号灯","Description":"上海市徐汇区中山南二路930-4"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4161,31.7749]},"properties":{"name":"路口信号灯2","id":"2","Road":"宛平南路","Type":"路口信号灯","Description":"上海市徐汇区宛平南路356号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4179,31.1747]},"properties":{"name":"路口信号灯3","id":"3","Road":"虹桥路","Type":"路口信号灯","Description":"上海市徐汇区虹桥路134号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.419,31.1749]},"properties":{"name":"路口信号灯4","id":"4","Road":"宜山路","Type":"路口信号灯","Description":"上海市徐汇区宜山路235号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4162,31.1806]},"properties":{"name":"路口信号灯5","id":"5","Road":"康平路","Type":"路口信号灯","Description":"上海市徐汇区康平路245号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4281,31.1783]},"properties":{"name":"路口信号灯6","id":"6","Road":"建国西路","Type":"路口信号灯","Description":"上海市徐汇区建国西路129号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4141,31.1772]},"properties":{"name":"路口信号灯7","id":"7","Road":"天钥桥路","Type":"路口信号灯","Description":"上海市徐汇区天钥桥路458号地下1层"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4109,31.1781]},"properties":{"name":"路口信号灯8","id":"8","Road":"中山南二路","Type":"路口信号灯","Description":"上海市徐汇区中山南二路930-4"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4130,31.1808]},"properties":{"name":"路口信号灯9","id":"9","Road":"宛平南路","Type":"路口信号灯","Description":"上海市徐汇区宛平南路356号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.418,31.1805]},"properties":{"name":"路口信号灯10","id":"10","Road":"虹桥路","Type":"路口信号灯","Description":"上海市徐汇区虹桥路134号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.4228,31.18]},"properties":{"name":"路口信号灯11","id":"11","Road":"宜山路","Type":"路口信号灯","Description":"上海市徐汇区宜山路235号"}}
+]}

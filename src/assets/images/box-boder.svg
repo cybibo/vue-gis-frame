@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" style="/* display: none; */">
+      <g fill="#00bffd">
+        <path d="M0,0h20v4h-16v16h-4v-20z"></path>
+        <path d="M720,0v20h-4v-16h-16v-4h20z"></path>
+        <path d="M720,720h-20v-4h16v-16h4v20z"></path>
+        <path d="M0,720h20v-4h-16v-16h-4v20z"></path>
+        </g>
+      </svg>

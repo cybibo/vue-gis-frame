@@ -1,0 +1,15 @@
+{"code":200,
+  "message":"成功",
+  "data":{"type":"FeatureCollection", "features": [
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.43484,31.17647]},"properties":{"name":"入室盗窃","id":"1","time":"2017-10-21 23:21:45","description":"田林东路100弄-11号801","coordinates":[121.43484,31.17647]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.423006,31.17871]},"properties":{"name":"损害公共财物","id":"2","time":"2017-10-21 7:20:00","description":"宜山路600号上海市第六人民医院门诊部","coordinates":[121.423006,31.17871]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.438692,31.169567]},"properties":{"name":"入室盗窃","id":"3","time":"2017-10-21 22:15:35","description":"龙漕路135弄21号602","coordinates":[121.438692,31.169567]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.430874,31.187769]},"properties":{"name":"尾随抢劫","id":"4","time":"2017-10-21 21:01:00","description":"蒲汇塘路135号好莱客门口","coordinates":[121.430874,31.187769]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.445891,31.172073]},"properties":{"name":"入室盗窃","id":"5","time":"2017-10-21 23:12:00","description":"龙水北路960960弄15号401","coordinates":[121.445891,31.172073]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.434841,31.196835]},"properties":{"name":"打架斗殴","id":"6","time":"2017-10-21 10:21:00","description":"广元西路98号陇上居牛肉面馆","coordinates":[121.434841,31.196835]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.45,31.181088]},"properties":{"name":"入室盗窃","id":"7","time":"2017-10-21 23:21:48","description":"宛南华侨新村2号1401","coordinates":[121.45,31.181088]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.448224,31.203454]},"properties":{"name":"尾随抢劫","id":"8","time":"2017-10-20 22:11:34","description":"永嘉路安亭路路口","coordinates":[121.448224,31.203454]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.445214,31.191229]},"properties":{"name":"入室盗窃","id":"9","time":"2017-10-20 01:20:08","description":"南丹东路99弄4号702","coordinates":[121.445214,31.191229]}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.44792,31.190574]},"properties":{"name":"打架斗殴","id":"10","time":"2017-10-20 18:20:00","description":"宛平南路404-2东北菜馆","coordinates":[121.44792,31.190574]}}
+]}}
+

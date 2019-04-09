@@ -1,0 +1,17 @@
+{"type":"FeatureCollection", "features": [
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440912,31.18039]},"properties":{"name":"张杰","ID":"1101","state":"出警","stationName":"徐家汇派出所","Number":"310345","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440569,31.18016]},"properties":{"name":"李杰","ID":"1102","state":"出警","stationName":"徐家汇派出所","Number":"310346","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440049,31.180087]},"properties":{"name":"刘白羽","ID":"1103","state":"巡逻","stationName":"徐家汇派出所","Number":"310352","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.44007,31.180853]},"properties":{"name":"徐王成","ID":"1104","state":"出警","stationName":"徐家汇派出所","Number":"310353","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440054,31.181285]},"properties":{"name":"胡慧","ID":"1105","state":"巡逻","stationName":"徐家汇派出所","Number":"310385","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.44253,31.187303]},"properties":{"name":"霍达","ID":"1106","state":"出警","stationName":"徐家汇派出所","Number":"310424","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.434119,31.184872]},"properties":{"name":"徐达","ID":"1107","state":"巡逻","stationName":"徐家汇派出所","Number":"310436","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440138,31.183306]},"properties":{"name":"孙立","ID":"1108","state":"出警","stationName":"徐家汇派出所","Number":"310439","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.44096,31.177969]},"properties":{"name":"张夏博","ID":"1109","state":"巡逻","stationName":"徐家汇派出所","Number":"310445","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.443271,31.183783]},"properties":{"name":"张虎","ID":"1111","state":"出警","stationName":"龙华派出所","Number":"310456","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.443014,31.178313]},"properties":{"name":"何晓","ID":"1112","state":"巡逻","stationName":"龙华派出所","Number":"310458","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.437927,31.180497]},"properties":{"name":"张波","ID":"1113","state":"出警","stationName":"龙华派出所","Number":"310459","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.435932,31.187895]},"properties":{"name":"肖思科","ID":"1114","state":"巡逻","stationName":"龙华派出所","Number":"310466","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.443041,31.182583]},"properties":{"name":"陆佰","ID":"1115","state":"出警","stationName":"龙华派出所","Number":"310472","distanceTime":""}}
+
+]}

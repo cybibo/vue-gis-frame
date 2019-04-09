@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": [{
+      "id": 1,
+      "FLIGHT_NO": "AZ5322",
+      "ORI_AIRPORT": "PEK",
+      "DES_AIRPORT": "PVG",
+      "PLAN_TAKEOFF_TIME": "2018-10-10 03:25:00.0",
+      "PLAN_LAND_TIME": "2018-10-10 05:50:00.0",
+      "WHEELS_UP_TIME": "2018-10-10 06:49:00.0",
+      "WHEELS_DOWN_TIME": "2018-10-11 01:49:00.0",
+      "code": "查看"
+    }
+  ]
+}

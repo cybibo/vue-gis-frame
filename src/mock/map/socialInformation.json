@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.448366,31.183832]},"properties":{"name":"晨一网吧","id":"1","Road":"中山南二路","Type":"网吧","Description":"上海市徐汇区中山南二路930-4"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.450295,31.188868]},"properties":{"name":"龙华医院","id":"7","Road":"宛平南路","Type":"医院","Description":"上海市徐汇区宛平南路725号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.454045,31.191153]},"properties":{"name":"复旦大学附属肿瘤医院","id":"8","Road":"东安路","Type":"医院","Description":"上海市徐汇区东安路270号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.454394,31.197136]},"properties":{"name":"中山医院西院区","id":"9","Road":"枫林路","Type":"医院","Description":"上海市徐汇区枫林路180号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.444171,31.189974]},"properties":{"name":"上海市徐汇图书馆","id":"10","Road":"南丹东路","Type":"图书馆","Description":"上海市徐汇区南丹东路80号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.435572,31.189313]},"properties":{"name":"上海斯波特大酒店","id":"11","Road":"南丹路","Type":"酒店","Description":"上海市徐汇区南丹路15号"}}
+]}
+

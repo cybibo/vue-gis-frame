@@ -1,0 +1,12 @@
+{"type":"FeatureCollection", "features": [
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.436581,31.184447]},"properties":{"name":"漕溪北路1","id":"1","Number":"XH31005115","Type":"卡口","Description":"漕溪北路3公里南向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.438416,31.183024]},"properties":{"name":"零陵路1","id":"2","Number":"XH31005117","Type":"超速","Description":"零陵路西向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.435921,31.179408]},"properties":{"name":"内环漕溪北路立交桥","id":"3","Number":"XH31005119","Type":"固定","Description":"内环漕溪北路立交桥北向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.435921,31.179408]},"properties":{"name":"漕溪北路2","id":"4","Number":"XH31005121","Type":"违停","Description":"漕溪北路25公里北向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.436114,31.180702]},"properties":{"name":"星光大道","id":"5","Number":"XH31005125","Type":"人脸","Description":"星光大道北向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440222,31.178022]},"properties":{"name":"内环高架","id":"6","Number":"XH31005128","Type":"超速","Description":"内环高架8公里北向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.446605,31.182107]},"properties":{"name":"内环高架","id":"7","Number":"XH31005129","Type":"卡口","Description":"内环高架6公里南向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.438775,31.182184]},"properties":{"name":"零陵路2","id":"8","Number":"XH31005132","Type":"违停","Description":"零陵路南向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440063,31.180877]},"properties":{"name":"火炬台路","id":"9","Number":"XH31005134","Type":"超速","Description":"火炬台路口南向"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.443104,31.185282]},"properties":{"name":"零陵路口3","id":"10","Number":"XH31005138","Type":"卡口","Description":"零陵路口东向"}}
+]}

@@ -1,0 +1,12 @@
+{"type":"FeatureCollection", "features": [
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440489,31.181055]},"properties":{"name":"沪A 1234警","ID":"101","state":"出警","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.439357,31.180771]},"properties":{"name":"沪A 1234警","ID":"102","state":"出警","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.440392,31.17989]},"properties":{"name":"沪A 1234警","ID":"103","state":"巡逻","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.444513,31.181599]},"properties":{"name":"沪A 1234警","ID":"104","state":"出警","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.432432,31.186023]},"properties":{"name":"沪C4554","ID":"105","state":"巡逻","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.426918,31.183123]},"properties":{"name":"沪C3621","ID":"106","state":"出警","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.43048,31.18997]},"properties":{"name":"沪C4354","ID":"107","state":"巡逻","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.452645,31.19455]},"properties":{"name":"沪C7655","ID":"108","state":"出警","stationName":"徐家汇派出所","distanceTime":""}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.435353,31.202239]},"properties":{"name":"沪C3589","ID":"109","state":"巡逻","stationName":"龙华派出所","distanceTime":""}}
+
+]}

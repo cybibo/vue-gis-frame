@@ -1,0 +1,14 @@
+{"type":"FeatureCollection", "features": [
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.43789,31.190844]},"properties":{"name":"徐家汇","id":"1","Road":"衡山路","Number":"XH31000115","Type":"交通","Description":"衡山路徐家汇地铁站南向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.437096,31.188293]},"properties":{"name":"徐家汇2","id":"2","Road":"沪闵高架","Number":"XH31000118","Type":"武装","Description":"沪闵高架徐家汇地铁站北向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.442053,31.189761]},"properties":{"name":"南丹东路","id":"3","Road":"南丹东路","Number":"XH31000125","Type":"治安","Description":"南丹东路2公里北向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.436731,31.185998]},"properties":{"name":"1号线1","id":"4","Road":"沪闵高架","Number":"XH31000131","Type":"治安","Description":"沪闵高架6公里北向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.435852,31.179353]},"properties":{"name":"1号线2","id":"5","Road":"沪闵高架","Number":"XH31000135","Type":"治安","Description":"沪闵高架4公里北向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.435852,31.179353]},"properties":{"name":"上海游泳馆","id":"6","Road":"内环高架","Number":"XH31000138","Type":"治安","Description":"内环高架8公里南向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.444005,31.185906]},"properties":{"name":"上海体育场","id":"7","Road":"内环高架","Number":"XH31000144","Type":"武装","Description":"内环高架4公里南向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.444756,31.180619]},"properties":{"name":"内环高架","id":"8","Road":"内环高架","Number":"XH31000148","Type":"治安","Description":"内环高架3公里南向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.444027,31.182914]},"properties":{"name":"体育馆西南门","id":"9","Road":"沪闵高架","Number":"XH31000149","Type":"交通","Description":"沪闵高架3公里西向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.432451,31.181028]},"properties":{"name":"明申中心大厦卡口","id":"10","Road":"中山西路","Number":"XH31000151","Type":"交通","Description":"中山西路3公里西向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.436334,31.182478]},"properties":{"name":"零陵路沪闵高架交叉口","id":"11","Road":"沪闵高架","Number":"XH31000153","Type":"交通","Description":"沪闵路1公里东向卡口"}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[121.441795,31.18285]},"properties":{"name":"外环东北卡口","id":"12","Road":"衡山路","Number":"XH31000156","Type":"交通","Description":"外环东北南向卡口"}}
+]}

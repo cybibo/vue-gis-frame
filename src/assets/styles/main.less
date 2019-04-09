@@ -1,0 +1,60 @@
+/*公共样式*/
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-weight: normal;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'MicrosoftYaHei', '方正兰亭准黑', '微软雅黑', '冬青黑体简体中文';
+  background-color: #fff;
+}
+ul {
+  margin: 0;
+}
+.bg-white {
+  background-color: #fff;
+}
+#app,
+.main {
+  width: 100%;
+  height: 100%;
+  & .el-card__body {
+    padding: 0;
+  }
+}
+
+// 常用的功能类
+// 清除浮动
+.clearfix {
+  zoom: 1;
+  &:after {
+    content: ' ';
+    display: block;
+    clear: both;
+    height: 0;
+    visibility: hidden;
+  }
+}
+// 显示省略号
+.overflow {
+  overflow: hidden;
+  word-wrap: normal;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+// hover
+.theme:hover {
+  color: #20a0ff;
+  cursor: pointer;
+}
+.bg-white {
+  background-color: #fff;
+}
+
